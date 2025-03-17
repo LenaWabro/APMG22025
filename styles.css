@@ -1,5 +1,20 @@
-h1, h2{
-    font-family: "Agency FB", sans-serif;
-    color: blue;
+h1{
+    font-family: "Dubai Medium", sans-serif;
+    color: green;
+    text-align:center;
+}
 
+h2{
+    font-family: "Dubai Light", sans-serif;
+    color: green;
+
+}
+
+h1{
+
+}
+
+div{
+    border: 1px solid black;
+    background-color: palegreen;
 }
