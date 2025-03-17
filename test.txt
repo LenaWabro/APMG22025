@@ -2,4 +2,3 @@ Files wiederherstellen
 git checkout HEAD test.txt
 git reset --hard HEAD~1
 
-File wiederherstellen nach mehreren commits
